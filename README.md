@@ -27,5 +27,6 @@ Developing hands-on skills through personal projects and coursework focused on c
 - DevOps Foundations, Docker for Developers, Cloud Computing Basics (Coursera & LinkedIn Learning)
 
 📫 **Connect with Me**  
-- - LinkedIn: [Oviya Krishnamoorthy](https://www.linkedin.com/in/oviya-krishnamoorthy-31a53824a/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/oviya-krishnamoorthy-31a53824a/)
+- LinkedIn: [Oviya Krishnamoorthy](https://www.linkedin.com/in/oviya-krishnamoorthy-31a53824a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/oviya-krishnamoorthy-31a53824a/)
 - Email: oviyakrishnamoorthy5520@gmail.com  
