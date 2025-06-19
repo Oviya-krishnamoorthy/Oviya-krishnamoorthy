@@ -2,7 +2,7 @@
 
 Hello! I'm **Oviya Krishnamoorthy**, an enthusiastic and dedicated aspiring DevOps and Cloud Computing professional currently pursuing a Post-Graduate Diploma in Cloud Computing at Loyalist College, Toronto. I am passionate about building scalable, automated cloud infrastructure and streamlining deployment pipelines using modern DevOps practices.
 
-#🌟 **About Me**  
+🌟 # **About Me**  
 - **Name:** Oviya Krishnamoorthy  
 - **Location:** Toronto, Canada  
 - **Education:** Post-Graduate Diploma in Cloud Computing, Loyalist College  
